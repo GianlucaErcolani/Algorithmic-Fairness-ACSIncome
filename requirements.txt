@@ -1,0 +1,10 @@
+# Data Manipulation & I/O
+pandas==1.4.3
+numpy==1.21.5
+scipy==1.9.0
+
+# Visualization
+matplotlib==3.5.2
+
+# Machine Learning
+scikit-learn==1.1.2
